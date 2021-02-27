@@ -19,13 +19,13 @@ I'm green in android-jetpack-compose things and I user compose related things as
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-## DarkMode
+### DarkMode
 <div>
 <img src="https://github.com/Shalj/PuppyAdoption/blob/master/images/dark2.jpeg" width="35%">
 <img src="https://github.com/Shalj/PuppyAdoption/blob/master/images/dark1.jpeg" width="35%">
   </div>
 
-## LightMode
+### LightMode
 <div>
 <img src="https://github.com/Shalj/PuppyAdoption/blob/master/images/light2.jpeg" width="35%">
 <img src="https://github.com/Shalj/PuppyAdoption/blob/master/images/light1.jpeg" width="35%">
