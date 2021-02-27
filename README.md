@@ -7,7 +7,8 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-I'm green in android-jetpack-compose things and I user compose related things as more as I can.
+I enter compose related things as more as I can.
+Hope it's not that bad.
 
 
 ## :bulb: Motivation and Context
