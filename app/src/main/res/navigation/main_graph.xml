@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/puppyListFrag">
+
+    <fragment
+        android:id="@+id/puppyListFrag"
+        android:name="com.liangjun.puppyadoption.presentation.ui.puppy_list.PuppyListFrag"
+        android:label="PuppyListFrag">
+        <action
+            android:id="@+id/toPuppyDetail"
+            app:destination="@id/puppyFrag" />
+    </fragment>
+    <fragment
+        android:id="@+id/puppyFrag"
+        android:name="com.liangjun.puppyadoption.presentation.ui.puppy.PuppyFrag"
+        android:label="PuppyFrag" >
+    </fragment>
+</navigation>

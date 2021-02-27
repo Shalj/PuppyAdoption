@@ -1,0 +1,19 @@
+package com.liangjun.puppyadoption.di
+
+import com.liangjun.puppyadoption.network.model.PuppyDtoMapper
+import dagger.Module
+import dagger.Provides
+import dagger.hilt.InstallIn
+import dagger.hilt.components.SingletonComponent
+import javax.inject.Singleton
+
+@Module
+@InstallIn(SingletonComponent::class)
+object NetworkModule {
+
+    @Singleton
+    @Provides
+    fun provideRecipeMapper(): PuppyDtoMapper {
+        return PuppyDtoMapper()
+    }
+}
