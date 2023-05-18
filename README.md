@@ -8,8 +8,7 @@ oops,working on it.
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-I enter compose related things as more as I can.
-Hope it's not that bad.
+Jetpack compose practice project. As a totally fresh man, I'll be better and better.
 
 
 ## :bulb: Motivation and Context
@@ -17,7 +16,7 @@ Hope it's not that bad.
 <!--- What are you especially proud of? --> 
 ★ MVVM
 ★ Hilt
-★ Anything else you like XD
+★ Shining things in your eyes.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
